@@ -1,0 +1,1329 @@
+Title,Category,SubCategory,Frequency,ParentExists,Child,Discontinued
+Consensus CPI Inflation for the Current Year,Inflation,CPI,BiMonthly,N,N,N
+Consensus CPI Inflation for the Next Year,Inflation,CPI,BiMonthly,N,N,N
+"CPI - Air conditioner, air cooler (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Air fare (normal): economy class(adult) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - All Commodities (2012 series),Inflation,CPI,Monthly,N,Y,N
+"CPI - All Commodities (2012 series, Annual)",Inflation,CPI,Annual,N,N,N
+"CPI - All Commodities (Rural, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - All Commodities (Urban, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Almirah, dressing table (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Any other personal goods (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Apple (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Arhar, tur (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Baby food (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Bajra & its products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Banana (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Baniyan, socks, other hosiery and undergarments, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Barber, beautician, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Bathroom and sanitary equipment (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Beans, barbati (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Bed sheet, bed cover (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Bedding: others (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Bedstead (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Beef/ buffalo meat (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Beer (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Berries (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Besan (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Bicycle(without accessories) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Bidi (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Biscuits, chocolates, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Black pepper (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Books, journals: first hand (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Bread (bakery) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Brinjal (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Bucket, water bottle/ feeding bottle & other plastic goods (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Bus/tram fare (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Butter (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cabbage (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Camera & photographic equipment (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Candle (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Candy, misri (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Carpet, daree& other floor mattings (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Carrot (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cashewnut (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cauliflower (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - CD, DVD, audio/video cassette, etc (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Cereal substitutes: tapioca, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Cereals and Products (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Cereals and Products (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Cereals and Products (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Chair, stool, bench, table (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Charcoal (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cheroot (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Chicken (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Chips (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Chira (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cigarettes (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cinema: new release(normal day) (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Clock, watch (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Cloth for coat, trousers, suit, etc. (metre) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Cloth for shirt, pyjama, kurta, salwar, etc. (metre) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Cloth for upholstery, curtains, tablecloth, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Clothing (2012 series),Inflation,CPI,Monthly,Y,Y,N
+CPI - Clothing (first-hand): other (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Clothing (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Clothing (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Clothing and Footwear (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Clothing and Footwear (Rural, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Clothing and Footwear (Urban, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+CPI - Clothing: second-hand (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Club fees (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Coal (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Coat, jacket, sweater, windcheater (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Coconut (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Coconut oil (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Coconut: copra (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Coffee: cups (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Coffee: powder (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Coir, rope, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Coke (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cold beverages: bottled/canned (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Cooked meals purchased  (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Cooked snacks purchased [samosa, puri, paratha, burger, chowmein, idli, dosa, vada, chops, pakoras, paobhaji, etc.] (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Country liquor (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Curd (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Curry powder (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Dates (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Dhania (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Dhoti (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Diesel [excl. conveyance] (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Diesel for vehicle (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Doctor/ surgeon fee-first consultation (non-institutional) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Domestic servant/cook (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Dry chillies (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Dung cake (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Earthenware (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Education (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Education (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Education (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Egg (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Egg (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Egg (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Electric batteries (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Electric bulb, tubelight (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Electric fan (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Electric iron, heater, toaster, oven & other electric heating appliances (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Electricity (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Excluding Food and Fuel (2012 series),Inflation,CPI,Monthly,N,N,N
+CPI - Excluding Food items (2012 series),Inflation,CPI,Monthly,N,N,N
+"CPI - Excluding Food, Fuel, Retail Fuel, Precious Metals (2012 series)",Inflation,CPI,Monthly,N,N,N
+CPI - Family planning devices (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Firewood and chips (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Fish, prawn (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Flower (fresh): all purposes (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Food and Beverages (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Food and Beverages (Rural, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Food and Beverages (Urban, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+CPI - Footwear (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Footwear (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Footwear (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Foreign/refined liquor or wine (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Frocks, skirts, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Fruit juice and shake (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Fruits (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Fruits (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Fruits (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Fuel and Light (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Fuel and Light (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Fuel and Light (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Gamchha, towel, handkerchief (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Garlic (gm) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Ghee (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Ginger (gm) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Glassware (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Goat meat/mutton (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Gold (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Goods for recreation and hobbies (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Gourd, pumpkin (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Gram products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Gram: split (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Gram: whole (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Grapes (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Green chillies (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Green coconut (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Grinding charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Groundnut (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Groundnut oil (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Guava (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Gur (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Hair oil, shampoo, hair cream (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Headwear, belts, ties (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Health (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Health (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Health (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Honey (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Hookah tobacco (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Horse cart fare (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Hospital & nursing home charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Hotel lodging charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - House rent, garage rent (actual) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Household Goods and Services (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Household Goods and Services (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Household Goods and Services (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Housing (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Housing (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Ice-cream (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Incense (agarbatti), room freshener (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Ingredients for pan (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Internet expenses (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Inverter (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Jackfruit (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Jeera (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Jowar & its products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Kerosene - other sources (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Kerosene - PDS (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Kharbooza (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Khesari (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Knitting wool (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Kurta-pajama suits: females (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Kurta-pajama suits: males (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Ladys finger (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Leaf tobacco (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Leather boots, shoes (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Leather sandals, chappals, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Leechi (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Lemon (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Library charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Lighter (bidi/ cigarette/ gas stove) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Lock (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - LPG [excl. conveyance] (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Lubricants & other fuels for vehicle (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Lungi (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Maida (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Maize & products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Mango (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Masur (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Matches (box) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Meat and Fish (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Meat and Fish (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Meat and Fish (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Medicine (non-institutional) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Milk and Products (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Milk and Products (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Milk and Products (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Milk: condensed/powder (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Milk: liquid (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Mineral water (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Miscellaneous (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Miscellaneous (Rural, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Miscellaneous (Urban, 2012 series)",Inflation,CPI,Monthly,Y,Y,N
+CPI - Mobile handset (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Monthly charges for cable TV connection (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Monthly maintenance charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Moong (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Mosquito net (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Mosquito repellent, insecticide, acid etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Motor car, jeep (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Motor cycle, scooter (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Muri (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Mustard oil (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Newspapers, periodicals (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Non-Alcoholic Beverages (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Non-Alcoholic Beverages (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Non-Alcoholic Beverages (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Oils and Fats (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Oils and Fats (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Oils and Fats (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Oilseeds (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Onion (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Orange, mausami (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Other beverages: cocoa, chocolate, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Other cereals (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other consumer services excluding conveyance (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other conveyance expenses (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other cooking/ household appliances (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other crockery & utensils (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other dry fruits (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other durables (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other educational expenses (incl. fees for enrollment in web-based training) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other entertainment (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other footwear (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other fresh fruits (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other fuel (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Other furniture & fixtures (couch, sofa, etc.) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Other intoxicants (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other leather footwear (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Other meat: birds, crab, oyster, tortoise, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Other medical expenses (non-institutional) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other metal utensils (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other milk products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other nuts (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other ornaments (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other packaged processed food (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other petty articles (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other pulse products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other pulses (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other rice products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other tobacco products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other vegetables (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Other washing requisites (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Palak/other leafy vegetables (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Pan, Tobacco, Intoxicants (2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Pan, Tobacco, Intoxicants (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Pan, Tobacco, Intoxicants (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Pan: finished (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Pan: leaf (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Papad, bhujia, namkeen, mixture, chanachur (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Papaya (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Parwal/patal, kundru (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - PC/ Laptop/ other peripherals incl. software (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Pears/nashpati (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Peas (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Peas (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Personal Care and Effects (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Personal Care and Effects (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Personal Care and Effects (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Petrol for vehicle (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Photography (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Pickles (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Pillow, quilt, mattress (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Pineapple (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Plugs, switches & other electrical fittings (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Pork (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Porter charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Potato (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Powder, snow, cream, lotion and perfume (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Prepared meals, Snacks, Sweets etc. (2012 series)",Inflation,CPI,Monthly,Y,Y,N
+"CPI - Prepared meals, Snacks, Sweets etc. (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Prepared meals, Snacks, Sweets etc. (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Prepared sweets, cake, pastry (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Pressure cooker/ pressure pan (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Private tutor/ coaching centre (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Pulses and Products (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Pulses and Products (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Pulses and Products (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Radio, tape recorder, 2-in-1 (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Radish (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Ragi & its products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Railway fare (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Raisin, kishmish, monacca, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Recreation and Amusement (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Recreation and Amusement (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Recreation and Amusement (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Refined oil [sunflower, soyabean, saffola, etc.] (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Refrigerator (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Residential building & land (cost of repairs only) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Rice - other sources (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Rice - PDS (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Rickshaw (hand drawn & cycle) fare (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Rubber / PVC footwear (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Rug, blanket (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Salt (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Sanitary napkins (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Saree (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Sauce, jam, jelly (gm) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - School bus, van, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - School/college uniform: boys (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - School/college uniform: girls (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Sewai, noodles (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Sewing machine (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Shaving blades, shaving stick, razor (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Shaving cream, aftershave lotion (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Shawl, chaddar (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Shirts, T-shirts (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Shorts, trousers, bermudas (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Silver (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Singara (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Small millets & their products (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Snuff (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Spectacles (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Spices (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Spices (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Spices (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Sports goods, toys, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Stainless steel utensils (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Stationery, photocopying charges (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Steamer, boat fare (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Stove, gas burner (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Sugar - other sources (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Sugar - PDS (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Sugar and Confectionary (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Sugar and Confectionary (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Sugar and Confectionary (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Suitcase, trunk, box, handbag and other travel goods (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Suji, rawa (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Sweeper (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Tailor (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Tamarind (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Taxi, auto-rickshaw fare (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Tea: cups (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Tea: leaf (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Telephone charges: landline (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Telephone charges: mobile (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Television (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Toddy (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Toilet soap (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Tomato (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Toothpaste, toothbrush, comb, etc. (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Torch (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Transport and Communication (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Transport and Communication (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Transport and Communication (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Tuition and other fees (school, college, etc.) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Turmeric (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Tyres & tubes (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Umbrella, raincoat (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Urad (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Vanaspati, margarine (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - VCD/ DVD hire (incl. instrument) (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - VCR/VCD/DVD player (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Vegetables (2012 series),Inflation,CPI,Monthly,Y,Y,N
+"CPI - Vegetables (Rural, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Vegetables (Urban, 2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Walnut (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - Washerman, laundry, ironing (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI - Washing machine (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Washing soap/soda/powder (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Watch man charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Water charges (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Water purifier (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Watermelon (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Wheat/ atta - other sources (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI - Wheat/ atta - PDS (2012 series),Inflation,CPI,Monthly,Y,N,N
+"CPI - X-ray, ECG, pathological test, etc. (non-institutional) (2012 series)",Inflation,CPI,Monthly,Y,N,N
+"CPI - Zarda, kimam, surti (2012 series)",Inflation,CPI,Monthly,Y,N,N
+CPI Agricultural Labourers,Inflation,CPI,Monthly,N,Y,N
+"CPI Agricultural Labourers - Clothing, Bedding and Footwear",Inflation,CPI,Monthly,Y,N,N
+CPI Agricultural Labourers - Food,Inflation,CPI,Monthly,Y,N,N
+CPI Agricultural Labourers - Fuel and Light,Inflation,CPI,Monthly,Y,N,N
+CPI Agricultural Labourers - Miscellaneous Items,Inflation,CPI,Monthly,Y,N,N
+"CPI Agricultural Labourers - Pan, Tobacco, Intoxicants",Inflation,CPI,Monthly,Y,N,N
+CPI Industrial Workers - All Items (2001 base year),Inflation,CPI,Monthly,N,Y,Y
+CPI Industrial Workers - All Items excluding Food (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - All Items excluding Food and Fuel (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Cereals and Products (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+"CPI Industrial Workers - Clothing, Bedding and Footwear (2001 base year)",Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Condiments and Spices (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+"CPI Industrial Workers - Education, Recreation and Amusement (2001 base year)",Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Food Group (2001 base year),Inflation,CPI,Monthly,Y,Y,Y
+CPI Industrial Workers - Fuel and Light (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Housing (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+"CPI Industrial Workers - Meat, Fish and Eggs (2001 base year)",Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Medical Care (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Milk and Milk Products (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Miscellaneous Items (2001 base year),Inflation,CPI,Monthly,Y,Y,Y
+CPI Industrial Workers - Oils and Fats (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Other Food (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Other Miscellaneous Items (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+"CPI Industrial Workers - Pan, Supari, Intoxicants (2001 base year)",Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Personal Care and Effects (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Pulses and Products (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Transport and Communication (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Industrial Workers - Vegetables and Fruits (2001 base year),Inflation,CPI,Monthly,Y,N,Y
+CPI Miscellaneous excl Retail Fuel and Gold and Silver (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI Personal Care and Effects excl Gold and Silver (2012 series),Inflation,CPI,Monthly,Y,N,N
+CPI Rural Labourers,Inflation,CPI,Monthly,N,Y,N
+"CPI Rural Labourers - Clothing, Bedding and Footwear",Inflation,CPI,Monthly,Y,N,N
+CPI Rural Labourers - Food,Inflation,CPI,Monthly,Y,N,N
+CPI Rural Labourers - Fuel and Light,Inflation,CPI,Monthly,Y,N,N
+CPI Rural Labourers - Miscellaneous Items,Inflation,CPI,Monthly,Y,N,N
+"CPI Rural Labourers - Pan, Tobacco, Intoxicants",Inflation,CPI,Monthly,Y,N,N
+CPI Transport and Communication excl Petrol and Diesel (2012 series),Inflation,CPI,Monthly,Y,N,N
+WPI - A C Motor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Acetic acid and Its Derivatives (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Acrylic fibre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Acrylic/plastic sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - ACSR Conductors (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Additive (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Adhesive excluding gum (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Adhesive tape (non-medicinal) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aerated drinks/Soft Drinks (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Agarbatti (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Agricultural tractors (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Agriculture implements (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Agro chemical formulation (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air conditioner (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air conditioning plant (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air Coolers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air filters (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air gas compressor including compressor for refrigerator (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Air or vacuum pump (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Alcohols (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Alkyl Benzene (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - All Commodities (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - All Commodities (2011-12 series),Inflation,WPI,Monthly,N,Y,N
+WPI - All Food Items (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Alloy steel castings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Alloy steel other than Stainless Steel- Shapes (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Alloy steel Wire rods (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Almonds (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium alloys (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium castings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium Disk and Circles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium ingot (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium metal (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium powder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium shapes - bars/rods/flats (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium utensils (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium wire (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aluminium/Alloy Conductor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Alumnium Foil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Amine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Amla (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ammonia gas (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ammonia liquid (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ammonium nitrate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ammonium phosphate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ammonium sulphate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Amplifier (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Angles, Channels, Sections, steel (coated/not) (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+"WPI - Aniline (including pna, ona, ocpna) (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Anti allergic drugs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Anti cancer drugs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Anti inflammatory preparation (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Antibiotics & preparations thereof (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Antidiabetic drug excluding insulin (i.e. tolbutam) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Anti-malarial drugs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Antioxidants (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Antipyretic, analgesic, anti-inflammatory formulations (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Anti-retroviral drugs for HIV treatment (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Antiseptics and disinfectants (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - API & formulations of vitamins (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Apple (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Arhar (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aromatic chemicals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Asbestos corrugated sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Athletic/sport shoes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Auto rickshaw/Tempo/Matador/Three wheelers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Auxiliary plant for use with boilers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Aviation Turbine Fuel (ATF) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Axles of motor vehicles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ayurvedic medicaments (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Babies garments, knitted (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Bagasse (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bajra (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bakery products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Banana (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Barley (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Base paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Basic Metals, Alloys & Metal Products (2004-05 series)",Inflation,WPI,Monthly,N,N,Y
+WPI - Basmati rice (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Batteries (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bauxite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Beans (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bed linen/Bed Spread (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Beef and Buffalo Meat (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Beer (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Belt & Other Articles of Leather (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Betel Leaves (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Betelnut/Arecanut (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Beverages, Tobacco & Tobacco Products (2004-05 series)",Inflation,WPI,Monthly,N,N,Y
+WPI - Bicycles of all types (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bidis (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Biscuit, cookies (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Bitter gourd (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bitumen (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Black Pepper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Blankets (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Body (for commercial motor vehicles) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Boilers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Bolts, screws, nuts & nails of Iron & steel (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Bottle gourd (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bracket (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Brake pad/brake liner/brake block/Brake rubber, others (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Brass metal/sheet/coils (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Bread, buns & croissant (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Brinjal (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Bristle paper board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Buffalo meat, fresh/frozen (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Building of ships and floating structures (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Butter (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cabbage (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cakes, pastries & muffins (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Camphor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Canvas shoes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Capacitors (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Carbon Black (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Card board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Card board box (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cardamom (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cardigans and pullovers, knitted (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Carpets and other floor coverings of textiles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Carrom board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Carrot (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cashew nut (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cast iron, castings (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Castings (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Castor Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Castor Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Catalysts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cauliflower (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Caustic soda (sodium hydroxide) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cement blocks (concrete) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cement superfine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Centrifugal Pumps (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ceramic tiles (Vitrified tiles) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cereals (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Cereals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Chain (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chassis of different vehicle types (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chemical equipment & system (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chemicals & Chemical Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+"WPI - Chicken/duck, dressed - fresh/frozen (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Chillers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chillies (Dry) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chocolate & cocoa powder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chrome Tanned Leather (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Chromite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cigarettes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Clinker (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Clock (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Clutches and shaft couplings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coal (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Coal (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Cocoa, chocolate and sugar confectionery (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Coconut fresh (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coffee (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coffee powder with chicory (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coir Fibre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coking Coal (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cold Rolled (CR) Coils & Sheets, including Narrow Strip (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Colour TV (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Computer peripherals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Concrete vibrator & mixture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Condensed Milk (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Condiments & Spices (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Condiments & Spices (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Condoms (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Connector/plug/socket/holder-electric (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Conveyer belt (fibre based) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Conveyors - non-roller type (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cooling tower (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Copper bolts, screws, nuts (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Copper Concentrate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Copper metal/Copper Rings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Copper shapes - bars/rods/plates/strips (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Copper wire (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Copra (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Copra oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cordage/ropes/twines of jute and coir (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Coriander (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Corn Flake (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Corrugated paper board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Corrugated sheet box (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cotton cloth (dyed, printed, or otherwise finished/processed) (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton Dyed/printed textile (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton hosiery cloth (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton seed Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton seed oil cake (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton Towel (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton wool (medicinal) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton woven cloth (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cotton Yarn (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Country Liquor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cranes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Crankshaft (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Creams & Lotions for External Application (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cricket ball (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cricket Bat (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Crude Petroleum & Natural Gas (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Crude Petroleum (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Crude Petroleum (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cucumber (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cumin (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Curtains (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Cutting, shaping and finishing of stone (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Cycle/Cycle rickshaw tyre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cylinder liners (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Cylinders (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Dairy products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Deep freezers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Detergent cake, washing soap cake/bar/powder (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Di ammonium phosphate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Diesel (HSD) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Diesel/Electric locomotive (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Digestive enzymes and antacids (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Domestic gas stove (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Drilling Machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Drumstick (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Dry cells such as torch light batteries (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Dumper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Duplex paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Dye stuff/dyes incl. dye intermediates and pigments/colours (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Earth moving machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Egg (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Eggs, Meat & Fish (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Eggs,Meat & Fish (2004-05 series)",Inflation,WPI,Monthly,N,N,Y
+WPI - Elastic webbing (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric & other meters (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric accumulators (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric filament type lamps (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric heaters (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric insulating material (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric Mixers/Grinders/Food Processors (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric switch (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric switch gear control/starter (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric welding machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electric Wires & Cables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electrical ballast & chokes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electrical relay/conductor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electrical resistors (except heating resistors) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electrical stamping- Laminated or otherwise (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Electricity (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Electricity (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Electro-diagnostic apparatus, used in medical, surgical, dental or veterinary sciences (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Electronic Printed Circuit Board (PCB)/micro circuit (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - EMU coaches (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Engine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Epoxy, liquid (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Ethyl acetate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ethylene Oxide (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Evaporator (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Excavator (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Excluding All Food items (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Excluding Food and Energy (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Explosive (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Fabric, polyethylene (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+"WPI - Fabrics/cloth, rayon (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Face/Body Powder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fan (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fatty acid (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ferrochrome (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ferromanganese (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ferrosilicon (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fibers (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Fibers (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Fibre glass incl. sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fibre Optic Cables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Filter element (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Filtration equipment (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fish frozen/canned/processed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Fishing vessels, trawlers (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Floriculture (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Flour of cereals other than rice, wheat etc. (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Flourescent tube (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Flowers (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Foam and rubber mattress (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fodder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Food Articles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Food Articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Food Grains (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Food Grains (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Food Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Football (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Forged Steel Rings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Forging, pressing, stamping and roll-forming of metal; powder metallurgy (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Forgings of steel (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Foundry chemical (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fruit Juice including concentrates (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fruit pulp (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Fruits & Vegetables (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Fruits & Vegetables (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Fruits (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Fruits (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Fuel & Power  (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Fuel & Power (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+"WPI - Fungicide, liquid (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Furnace Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Furnaces & Ovens (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Galvanized iron pipes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Garlic (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Garnet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gasket kit (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gear box and parts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gelatine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Generator parts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Generators & Alternators (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Geyser (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ghee (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gingelly Seed (Sesamum) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ginger (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ginger (Dry) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Glass bottle (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gloves of leather (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gola & similar Cattle Feed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gold & gold ornaments (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - GP/GC sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Grain mill products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Gram (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gram powder (besan) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Granite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Grapes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Graphite rod (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Green Peas (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Grinding or polishing machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Groundnut Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Groundnut Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Guar Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Guava (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Gur (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hair oil/Body Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hand tools (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hard board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Harness, Saddles & Other related Items (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Harvesters (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Head lamp (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Health supplements (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Hides (Raw) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hologram (3D) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Honey (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hose pipes in set or otherwise (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Hosiery goods, others– cotton (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Hospital furniture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Hot Rolled (HR) Coils & Sheets, including Narrow Strip (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Hydraulic equipment (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hydraulic pump (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Hydrogen peroxide (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ice cream (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ignition device (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Incandescent Lamps (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Industrial valve (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Industrial Wood (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Injection pump (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Inland fish (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Inputs into steel making (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Insecticide and Pesticide (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Instant Coffee (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Instant Food/Prepared meals based on vegetables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Insulating & flexible wire (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Insulator (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Intraocular Lens (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Iron Ore (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Iron/steel cap (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Iron/Steel Furniture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Iron/steel hinges (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - IV fluids (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Jackfruit (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Jams, jellies, marmalades and puree (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Jasmine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Jelly Filled Cables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Jigs & Fixture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Journal/periodical (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Jowar (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Jute sacking cloth/Gunny and hessian cloth (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Kerosene (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Knitted fabrics of cotton (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Kraft paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Laminated Paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Laminated plastic sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lamination wooden sheets/Veneer sheets (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Laptops (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lathes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lead acid batteries for vehicles & other uses (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lead Concentrate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Lead ingots, bars, blocks, plates (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Leather & Leather Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Leather garments incl. Jackets (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Leather Shoe (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lemon (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Light fitting accessories (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Light, medium & heavy commercial vehicles (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Lignite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lime and calcium carbonate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Limestone (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Linseed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Liquid air & other gaseous products (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Liquified Petroleum Gas (LPG) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Litchi (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Loader (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lock/padlock (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Lube Oils (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Macaroni, noodles, couscous and similar farinaceous products (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Machinery & Machine Tools (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Machinery for plastic products - extruded (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Machinery used in the milling industry (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Maida (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Maize (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Malt Liquors and Malt (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manganese Ore (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mango (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Manufacture of agricultural and forestry machinery (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of articles of concrete, cement and plaster (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of basic chemicals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Basic Metals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of batteries and accumulators (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of bearings, gears, gearing and driving elements (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Beverages (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of bicycles and invalid carriages (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of builders’ carpentry and joinery (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of cement, lime and plaster (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Chemicals And Chemical Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of clay building materials (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of communication equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture Of Computer, Electronic And Optical Products (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of computers and peripheral equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of consumer electronics (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of cordage, rope, twine and netting (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of corrugated paper and paperboard and containers of paper and paperboard (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of cutlery, hand tools and general hardware (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of domestic appliances (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Electrical Equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of electronic components (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of engines and turbines, except aircraft, vehicle and two wheeler engines (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture Of Fabricated Metal Products, Except Machinery And Equipment (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of fertilizers and nitrogen compounds (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of fibre optic cables for data transmission or live transmission of images (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of fluid power equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Food Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of footwear (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Furniture (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of furniture (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of games and toys (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of glass and glass products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of irradiation, electromedical and electrotherapeutic equipment (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of jewellery and related articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of knitted and crocheted apparel (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of knitted and crocheted fabrics (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Leather And Related Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of lifting and handling equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of luggage, handbags, saddlery and harness (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Machinery And Equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of machinery for food, beverage and tobacco processing (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of machinery for mining, quarrying and construction (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of machinery for textile, apparel and leather production (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of made-up textile articles, except apparel (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of man-made fibres (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of measuring, testing, navigating and control equipment (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of medical and dental instruments and supplies (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of metal-forming machinery and machine tools (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of motor cycles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of motor vehicles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture Of Motor Vehicles, Trailers And Semi-Trailers (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of musical instruments (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of non-ferrous metals incl. precious metals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of office machinery and equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of optical instruments and photographic equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other articles of paper and paperboard (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other chemical products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other electrical equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other electronic and electric wires and cables (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other fabricated metal products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other general-purpose machinery (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Other Non-Metallic Mineral Product (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other non-metallic mineral products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other porcelain and ceramic products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of other pumps, compressors, taps and valves (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other rubber products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other special-purpose machinery (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other textiles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Other Transport Equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of other transport equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of ovens, furnaces and furnace burners (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of paints, varnishes and similar coatings, printing ink and mastics (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Paper And Paper Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of parts and accessories for motor vehicles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of pesticides and other agrochemical products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture Of Pharmaceuticals, Medicinal Chemical And Botanical Products (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of pharmaceuticals, medicinal chemical and botanical products (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of plastic and synthetic rubber in primary form (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of plastics products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of pulp, paper and paperboard (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of railway locomotives and rolling stock (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of refractory products (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Manufacture of renewable electricity generating equipment (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Rubber And Plastics Product (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of sports goods (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of steam generators, except central heating hot water boilers (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of structural metal products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of tanks, reservoirs and containers of metal (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of Tea & Coffee products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Textiles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Tobacco Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board and other panels and boards (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of watches and clocks (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Wearing Apparel (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of wearing apparel (woven), except fur apparel (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+"WPI - Manufacture of wiring devices, electric lighting & display equipment (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture Of Wood And Of Products Of Wood And Cork   (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufacture of wooden containers (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufactured Products  (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Manufactured Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Manufacturing excluding Food and Metals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Map litho paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Marble Slab (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Marigold (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Marine Fish (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Masur (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Material handling, lifting and hoisting equipment (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+"WPI - Meat of goat, fresh or chilled (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Medical accessories (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Medium & heavy commercial vehicle tube (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Medium & heavy commercial vehicle tyre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Men/Boys suits, coats and jackets (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Menthol (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mesta (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Metal cutting tools & accessories (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Metallic iron (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Metallic Minerals (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Metallic Minerals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Meter (non-electrical) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Meter Panel (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Microscope (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Microwave oven (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mild Steel - Flat products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Mild Steel - Semi Finished Steel (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Mild Steel (MS) Blooms (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mild steel (MS) flats & sheets (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mild Steel -Long Products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Milk (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Milk (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mineral Oils (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Mineral Oils (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Mineral/Bottled Water (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Minerals (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Minerals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Minibus/bus (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Mining, quarrying & metallurgical machinery/parts (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Mixed fertilizer (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mixing machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Modems (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Molasses (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mono Ethyl Glycol (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Moong (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mosambi (Sweet Orange) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mosquito coil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Motor Car Tube (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Motor Car Tyre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Motor cycles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Motor Starter (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Motors & other DC equipment (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Moulding Machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - MS Bright Bars (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - MS castings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - MS Pencil Ingots (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - MS Slabs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - MS Wire Rods (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Multimeter (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mustard Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mustard oil cake (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Mutton (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Naphtha (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Natural Gas (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Newspaper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Newsprint (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Niger Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Nitric Acid (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Nitrogenous fertilizer, others (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Non ceramic tiles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Non Mechanical Toys (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Non-Coking Coal (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Non-Coking Coal (GCV between 3100 to 5500 Kcal/Kg) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Non-Coking Coal (GCV exceeding 5500 Kcal/Kg) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Non-Coking Coal (GCV less than 3100 Kcal/Kg) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Non-Food Articles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Non-Food Articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Non-Metallic Mineral Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Noodles & similar extruded products (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Nylon rope (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Oil pump (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Oil Seeds (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Oil Seeds (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Okra (Lady finger) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Oleoresin (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Onion (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Open end spinning machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Opthalmic lens (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Orange (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ordinary Portland cement (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ordinary sheet glass (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Organic chemicals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Organic Solvent (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Organic surface active agent (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Other ferro alloys (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Other Food Articles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Other Food Articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Other Inorganic Chemicals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Other Manufacturing (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Other meats, preserved/processed (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Other Minerals (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Other Minerals (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Other Non-Food Articles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Other Non-Food Articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Other Petrochemical Intermediates (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Other tobacco products (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Packing machine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Paddy (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Paint (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Palm Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Papaya (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Paper & Paper Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Paper bag including craft paper bag (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Paper carton/box (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Paper for printing & writing (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Particle Boards (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Passenger vehicles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pear (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Peas/Chawali (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Perfume/scent (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Personal Computer (P.C.) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Petrol (MS) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Petroleum Coke (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pharmaceutical Machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Phosphoric acid (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Phosphorite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Phthalic anhydride (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pig Iron (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pineapple (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pipes & tubes (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Piston ring/Piston and Compressor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plain bricks (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic bag (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic bottle (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic box/container (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic button (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic capsules (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic components (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic film (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic fixtures (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic furniture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic moulded-others toys (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic tank (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic tape (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic tube (flexible/non-flexible) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plastic/PVC Chappals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plasticizer (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Playing Cards (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Plywood block boards (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pneumatic tools (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pointed gourd (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Poles & posts of concrete (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Poly Propylene (PP) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Poly Vinyl Chloride (PVC) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polyester chips or Polyethylene terepthalate (PET) chips (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polyester fibre fabric (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polyester film (non-metalized) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polyester film(metalized) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polyethylene (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Polypropylene film (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Polystyrene, expandable (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Polythene film (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pomegranate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Porcelain crockery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Porcelain sanitary ware (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pork (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Poster paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Potato (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Poultry Chicken (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Powder coating material (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Powder Milk (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pozzolana cement (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Precision machinery equipment/Form tools (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Preparation and spinning of textile fibres (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Prepared animal feeds (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Press board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pressure cooker (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pressure vessel and tank for fermentation & other food processing (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Primary Articles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Primary Articles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Printed Books (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Printed form & schedule (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Printed labels/posters/calendars (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Printing (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Printing And Reproduction Of Recorded Media  (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Printing ink (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Printing machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Processed condiments & salt (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Processed ready to eat food (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Processed rubber (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Processed Tea (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Processing and preserving of fish, crustaceans and molluscs and products thereof (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Processing and preserving of fruit and vegetables (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Processing and preserving of meat (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Propellers & Blades of Boats/Ships (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pulp board (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pulses (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Pulses (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Pump sets without motor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Pumpkin (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - PVC fittings & other accessories (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - PVC Insulated Cable (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Quilts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Radiators & coolers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Radish (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Ragi (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rails (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Railway brake gear (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Railway sleeper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rajma (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rape & Mustard Seed (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rapeseed Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Raw Cotton (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Raw Jute (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Raw Rubber (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Raw Silk (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Raw Wool (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rectified Spirit (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Refrigerators (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Release valve (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Reprographic machine and scanners (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rice Bran Extract (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rice Bran Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rice mill machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rice products (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Rice, Non-basmati (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Road roller (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Roller and ball bearings (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Roller mill (Raymond) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rose (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rotor/magneto rotor assembly (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber & Plastic Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Rubber Chemicals (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber cloth/sheet (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber components & parts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber Crumb (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber Insulated Cables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber moulded goods (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber Tread (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubber tubes- not for tyres (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Rubberized dipped fabric (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Safety fuse (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Safety matches (match box) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Safflower (Kardi Seed) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Salt (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sanitary fittings of Iron & Steel (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sapota (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Sauces of Vegetables (Tomato, Chilli, Soya & others) (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Saw milling and planing of wood (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Scientific time keeping device (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Scooters (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Seat for motor vehicles (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Separator (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sewing Machines (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Shafts of all kinds (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Shampoo (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Shawls and scarves, knitted (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Shirts/half shirts of cotton and/or man-made fibre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Shock absorbers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Shrimps/Prawns - Processed/Frozen (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Silencer and Damper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Silicomanganese (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sillimanite (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Silver (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Simvastatin (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Skins (Raw) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Slag cement (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Soda ash/washing soda (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sodium Silicate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Soft Drinks, Mineral/Bottled Water (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Soil preparation & cultivation machinery (other than tractors) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Solar power system (solar panel & attachable equipment) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Solenoid valve (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Solid Rubber Tyres/Wheels (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sooji (rawa ) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Soya preparations excluding oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Soyabean (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Soyabean Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Spices (including mixed spices) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Spirits (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sponge Iron/Direct Reduced Iron (DRI) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sports goods of rubber (incl. balls) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless Steel - Semi Finished (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Stainless Steel bars & rods, including flats (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+"WPI - Stainless Steel Coils, Strips & Sheets (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless Steel Pencil Ingots/Billets/Slabs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless steel razor (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless steel tank (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless steel tubes (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Stainless steel utensils (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Starches and starch products (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Steam Turbines (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel cables (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel Container (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel door (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel drums and barrels (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel forgings - rough (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Steel pipes, tubes & poles (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Steel shutter gate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steel structures (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steering gear control system (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Steroids and hormonal preparations (including anti-fungal preparations) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sticker plastic (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Stone, chip (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+"WPI - Stringed musical instruments (incl. Santoor, Guitars, etc.) (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Sugar (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sugar confectionary (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sugar Machinery (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Sugar, molasses & honey (2011-12 series)",Inflation,WPI,Monthly,Y,Y,N
+WPI - Sugarcane (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sulpha drugs (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sulphuric Acid (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sunflower (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sunflower Oil (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Sunglasses (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Superphospate/Phosphatic fertilizer, others (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Sweet Potato (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Synthetic Fabric – Others (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Synthetic yarn (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Table Tennis Table (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tamarind (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tanker (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tanning and dressing of leather; dressing and dyeing of fur (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Tanning Materials (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tapioca (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tea (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Telephone sets including mobile hand sets (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Terry Towel (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Textiles (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Texturised and twisted Yarn (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Thermocol (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Threshers (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Timber/wooden plank, sawn/resawn (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Tissue paper (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tobacco (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Toilet soap (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tomato (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tooth brush (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tooth paste/Tooth Powder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Toughened glass (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tractor Tyre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Transformer (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI - Transport, Equipment & Parts (2004-05 series)",Inflation,WPI,Monthly,N,N,Y
+"WPI - Travel goods, handbags, office bags, etc. (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Trouser/pants made of cotton and/or man-made fibre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Turmeric (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Two/Three wheeler rubber tube (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Two-Three wheeler Tyre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Tyre cord fabric (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - UPS in Solid State Drives (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Urad (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Urea (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - V belt (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vaccine for hepatitis B (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vaccine for polio (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vanaspati (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Varnish (all types) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vegetable and animal oils and fats (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Vegetable starch (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vegetable Tanned Leather (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Vegetables (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+WPI - Vegetables (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+"WPI - Vials/ampoule, glass, empty or filled (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Viscose staple fibre (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Viscose yarn (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wagons (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Walnut (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Washing Machines/Laundry Machines (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Watch (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Water pump (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Water purifier (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Waterproof footwear (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Weaving & Finishing of textiles (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Wheat (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wheat Bran (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wheat flour (Atta) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wheels/Wheels & parts (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Whey powder (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - White cement (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Windmill turbines (2500KW) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wine (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wines and Spirits (2011-12 series),Inflation,WPI,Monthly,Y,Y,N
+WPI - Wood & Wood Products (2004-05 series),Inflation,WPI,Monthly,N,N,Y
+"WPI - Wood cutting, processed/sized (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden block - compressed or not (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden board (non-electrical) (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden box/crate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden furniture (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden panel (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Wooden splint (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Woollen woven cloth (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Woollen yarn (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - XLPE Compound (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - X-ray equipment (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Zinc Concentrate (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+WPI - Zinc metal/zinc blocks (2011-12 series),Inflation,WPI,Monthly,Y,N,N
+"WPI Primary Articles excluding Minerals, Petroleum (2011-12 series)",Inflation,WPI,Monthly,Y,N,N
